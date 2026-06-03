@@ -8,5 +8,5 @@
 # Install
 
 ```
-C:\Users\Your name Users\.config\fastfetch
+C:\Users\Your_name_Users\.config\fastfetch
 ```
