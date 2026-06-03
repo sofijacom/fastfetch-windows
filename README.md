@@ -8,6 +8,9 @@
 
 <img width="850" height="478" alt="2026-06-03_23-35-25" src="https://github.com/user-attachments/assets/45a6144d-babf-4618-925c-e69b84cffa7c" />
 
+<img width="850" height="478" alt="2026-06-04_00-45-08" src="https://github.com/user-attachments/assets/a27d0d88-673f-4486-8317-8b6d620ae083" />
+
+
 # Install
 
 ```
