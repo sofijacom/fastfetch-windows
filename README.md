@@ -4,3 +4,8 @@
 
 
 <img width="850" height="478" alt="Снимок экрана (3)" src="https://github.com/user-attachments/assets/d8c7a959-73f0-4211-aafa-e4297af0506e" />
+
+# Install
+```
+C:\Users\Flude\.config\fastfetch
+```
