@@ -7,5 +7,5 @@
 
 # Install
 ```
-C:\Users\Flude\.config\fastfetch
+C:\Users\Users\.config\fastfetch
 ```
