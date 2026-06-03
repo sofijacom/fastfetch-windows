@@ -15,7 +15,7 @@
     "color": {"1": "blue", "2": "black", "3": "black", "4": "blue"},
     //"source": "C:/Users/Flude/.config/fastfetch/ascii/rose.txt",
     //"source": "C:/Users/Flude/.config/fastfetch/png/vindovs-11.png",
-    "source": "C:/Users/Flude/.config/fastfetch/logos/bina_pp.sixel",
+    "source": "C:/Users/Flude/.config/fastfetch/logos/windows_11.sixel",
     "type": "raw",
     "height": 20,
     "width": 40, // comment this out if you're not using sixel
