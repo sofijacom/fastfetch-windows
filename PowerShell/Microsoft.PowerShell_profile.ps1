@@ -21,3 +21,4 @@ if (Get-Command fastfetch -ErrorAction SilentlyContinue) {
 #        fastfetch -c "C:/Users/Flude/.config/fastfetch/config-2.jsonc"
             fastfetch -c "C:/Users/Flude/.config/fastfetch/config-3.jsonc"
 #                 fastfetch -c "C:/Users/Flude/.config/fastfetch/config-4.jsonc"
+}
