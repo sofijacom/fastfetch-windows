@@ -10,7 +10,7 @@ Ubah WxH dengan ukuran resolusi yang diinginkan (misalnya 40x40).
 
 Sesuaiin "path/gambar/ori" dengan path gambar asal dan "path/jadi/gambar_sixel.sixel" dengan path untuk output gambar sixel.
 
-_____________________________________________________________________________________________________________________________
+---
 
 Конвертировать изображения в формат Sixel с помощью Chafa
 
