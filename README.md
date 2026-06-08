@@ -12,7 +12,9 @@
 
 <details>
 <summary><b>Image ► Click to expand</b></summary>
-  
+
+<img width="1163" height="660" alt="Снимок экрана 2026-06-08 214844" src="https://github.com/user-attachments/assets/e05fd564-4a2e-46ef-adca-49c04872e92d" />
+
 <img width="1308" height="702" alt="Снимок экрана 2026-06-04 015107" src="https://github.com/user-attachments/assets/bb63db3c-3a5d-4eb2-8cfd-2a996feadf5e" />
 
 <img width="1308" height="702" alt="Снимок экрана 2026-06-04 014959" src="https://github.com/user-attachments/assets/c088ef21-b243-4453-80d5-7298e5fd94c0" />
